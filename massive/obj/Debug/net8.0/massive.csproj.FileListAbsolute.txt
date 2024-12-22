@@ -1,0 +1,14 @@
+C:\Users\Максим\source\repos\massive\massive\bin\Debug\net8.0\massive.exe
+C:\Users\Максим\source\repos\massive\massive\bin\Debug\net8.0\massive.deps.json
+C:\Users\Максим\source\repos\massive\massive\bin\Debug\net8.0\massive.runtimeconfig.json
+C:\Users\Максим\source\repos\massive\massive\bin\Debug\net8.0\massive.dll
+C:\Users\Максим\source\repos\massive\massive\bin\Debug\net8.0\massive.pdb
+C:\Users\Максим\source\repos\massive\massive\obj\Debug\net8.0\massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\source\repos\massive\massive\obj\Debug\net8.0\massive.AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\massive\massive\obj\Debug\net8.0\massive.AssemblyInfo.cs
+C:\Users\Максим\source\repos\massive\massive\obj\Debug\net8.0\massive.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\massive\massive\obj\Debug\net8.0\massive.dll
+C:\Users\Максим\source\repos\massive\massive\obj\Debug\net8.0\refint\massive.dll
+C:\Users\Максим\source\repos\massive\massive\obj\Debug\net8.0\massive.pdb
+C:\Users\Максим\source\repos\massive\massive\obj\Debug\net8.0\massive.genruntimeconfig.cache
+C:\Users\Максим\source\repos\massive\massive\obj\Debug\net8.0\ref\massive.dll
